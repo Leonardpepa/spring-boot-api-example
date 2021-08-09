@@ -1,5 +1,5 @@
 # spring-boot-api-example
-# Demo project to experiment with spring framework
+# Demo project to experiment with spring framework and mvc
 
 
 # Student schema

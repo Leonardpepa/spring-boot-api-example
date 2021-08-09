@@ -3,23 +3,23 @@
 
 
 # Student schema
-* Id (auto increamented byt db)
+* Id (auto increamented by db)
 * fname (full name)
 * email
 * rn (registrarion number)
 
 # Get
-* localhost:8089/students
-* localhost:8089/students/{id}
+* localhost:8080/students
+* localhost:8080/students/{id}
 
 # Post
-* localhost:8089/students
+* localhost:8080/students
 
 # Delete
-* localhost:8089/students/{id}
+* localhost:8080/students/{id}
 
 # Put
-*localhost:8089/students{id}
+*localhost:8080/students{id}
 
 ## the project uses maven for managing the dependencies
 

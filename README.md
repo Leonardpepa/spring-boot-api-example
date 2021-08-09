@@ -19,7 +19,7 @@
 * localhost:8080/students/{id}
 
 # Put
-*localhost:8080/students{id}
+* localhost:8080/students{id}
 
 ## the project uses maven for managing the dependencies
 
